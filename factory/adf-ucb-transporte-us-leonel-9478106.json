@@ -1,0 +1,10 @@
+{
+	"name": "adf-ucb-transporte-us-leonel-9478106",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth"
+}
