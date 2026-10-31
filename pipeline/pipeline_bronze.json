@@ -217,6 +217,9 @@
 				}
 			}
 		],
+		"folder": {
+			"name": "bronze"
+		},
 		"annotations": []
 	}
 }
